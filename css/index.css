@@ -1,5 +1,13 @@
-p{
+p.sub-title1{
     color: aqua;
+}
+p#sub-title2{
+    color: tomato;
+}
+
+.company{
+    font-weight: bold;
+    font-size: larger;
 }
 
 h1{
@@ -7,3 +15,31 @@ h1{
     color: yellow;
     font-weight: bold;
 }
+
+div.box1{
+    height: 100px;
+    width: 100px;
+    background-color: teal;
+    text-align: center;
+    border-radius: 50% 50% 50% 50%;
+    position:absolute;
+    left: ;
+    top: ;
+
+}
+
+div.box2{
+    height: 100px;
+    width: 100px;
+    background-color: purple;
+    text-align: center;
+    
+}
+
+div.box3{
+    height: 100px;
+    width: 100px;
+    background-color:wheat;
+    text-align: center;
+}
+
